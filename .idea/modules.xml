@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ahorcado_Jose/Ahorcado_Jose.iml" filepath="$PROJECT_DIR$/Ahorcado_Jose/Ahorcado_Jose.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Asociacion/Asociacion.iml" filepath="$PROJECT_DIR$/Asociacion/Asociacion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cafetera/Cafetera.iml" filepath="$PROJECT_DIR$/Cafetera/Cafetera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Cafetera_Jose/Cafetera_Jose.iml" filepath="$PROJECT_DIR$/Cafetera_Jose/Cafetera_Jose.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ejercicio_Jose.iml" filepath="$PROJECT_DIR$/Ejercicio_Jose.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExamenMarzoA/ExamenMarzoA.iml" filepath="$PROJECT_DIR$/ExamenMarzoA/ExamenMarzoA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MasterMind/MasterMind.iml" filepath="$PROJECT_DIR$/MasterMind/MasterMind.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oca/Oca.iml" filepath="$PROJECT_DIR$/Oca/Oca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PracticandoExamen/PracticandoExamen.iml" filepath="$PROJECT_DIR$/PracticandoExamen/PracticandoExamen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pueblo_v1/Pueblo_v1.iml" filepath="$PROJECT_DIR$/Pueblo_v1/Pueblo_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Naming/naming.iml" filepath="$PROJECT_DIR$/Naming/naming.iml" />
+    </modules>
+  </component>
+</project>
